@@ -1,0 +1,664 @@
+{
+  "version": "provisional-cftc-v1",
+  "label_status": "SME review required",
+  "purpose": "Retrieval-only development benchmark; not a regulatory accuracy or release approval set",
+  "split_policy": "Frozen query-level stratification by part: 46 tuning / 19 held-out. Every part appears in both. Source corpus is shared; queries are not used for training.",
+  "limitations": [
+    "Author-created from source section headings; independent SME labels pending.",
+    "Small held-out sample; near-paraphrases and overlapping source sections may overestimate generalization.",
+    "No answer faithfulness, citation support, escalation or readability metrics are claimed.",
+    "Other relevant sections may be omitted from the provisional expected-citation labels."
+  ],
+  "questions": [
+    {
+      "id": "p001-01",
+      "part": 1,
+      "question": "Where is liability of a principal for the act of an agent addressed?",
+      "expected_citations": [
+        "1.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p001-02",
+      "part": 1,
+      "question": "Where are general commodity regulation definitions collected?",
+      "expected_citations": [
+        "1.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p001-03",
+      "part": 1,
+      "question": "What section addresses electronic signatures and acknowledgments?",
+      "expected_citations": [
+        "1.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p001-04",
+      "part": 1,
+      "question": "Find the general anti-evasion provision.",
+      "expected_citations": [
+        "1.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p001-05",
+      "part": 1,
+      "question": "Where are books and records requirements addressed?",
+      "expected_citations": [
+        "1.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p003-01",
+      "part": 3,
+      "question": "Find the definitions used in the registration rules.",
+      "expected_citations": [
+        "3.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p003-02",
+      "part": 3,
+      "question": "Where is registration processing addressed?",
+      "expected_citations": [
+        "3.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p003-03",
+      "part": 3,
+      "question": "What section addresses the chief compliance officer?",
+      "expected_citations": [
+        "3.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p003-04",
+      "part": 3,
+      "question": "Does the rule text discuss registration in one capacity and another capacity?",
+      "expected_citations": [
+        "3.4"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p003-05",
+      "part": 3,
+      "question": "Find registration provisions for futures commission merchants.",
+      "expected_citations": [
+        "3.10"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p022-01",
+      "part": 22,
+      "question": "Where are cleared swaps collateral definitions located?",
+      "expected_citations": [
+        "22.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p022-02",
+      "part": 22,
+      "question": "Find the cleared swaps collateral provisions for futures commission merchants.",
+      "expected_citations": [
+        "22.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p022-03",
+      "part": 22,
+      "question": "Which cleared swaps collateral section addresses derivatives clearing organizations?",
+      "expected_citations": [
+        "22.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p022-04",
+      "part": 22,
+      "question": "Where is treatment by permitted depositories addressed for cleared swaps collateral?",
+      "expected_citations": [
+        "22.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p022-05",
+      "part": 22,
+      "question": "Find the situs provision for cleared swaps customer collateral.",
+      "expected_citations": [
+        "22.8"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p023-01",
+      "part": 23,
+      "question": "Where is registration of swap dealers addressed?",
+      "expected_citations": [
+        "23.21"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p023-02",
+      "part": 23,
+      "question": "Find the prohibition against statutory disqualification for swap dealers.",
+      "expected_citations": [
+        "23.22"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p023-03",
+      "part": 23,
+      "question": "Which section addresses cross-border application for swap dealers?",
+      "expected_citations": [
+        "23.23"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p023-04",
+      "part": 23,
+      "question": "What does 23.502 require?",
+      "expected_citations": [
+        "23.502"
+      ],
+      "split": "held_out",
+      "query_type": "section_lookup"
+    },
+    {
+      "id": "p023-05",
+      "part": 23,
+      "question": "Where are minimum financial requirements for swap dealers addressed?",
+      "expected_citations": [
+        "23.101"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p037-01",
+      "part": 37,
+      "question": "Find the scope of the swap execution facility rules.",
+      "expected_citations": [
+        "37.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p037-02",
+      "part": 37,
+      "question": "Where are requirements and procedures for swap execution facility registration?",
+      "expected_citations": [
+        "37.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p037-03",
+      "part": 37,
+      "question": "Which swap execution facility section covers procedures for listing products?",
+      "expected_citations": [
+        "37.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p037-04",
+      "part": 37,
+      "question": "Where is enforceability addressed for swap execution facilities?",
+      "expected_citations": [
+        "37.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p037-05",
+      "part": 37,
+      "question": "Find prohibited use of data collected for regulatory purposes by swap execution facilities.",
+      "expected_citations": [
+        "37.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p039-01",
+      "part": 39,
+      "question": "Where is the scope of derivatives clearing organization rules?",
+      "expected_citations": [
+        "39.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p039-02",
+      "part": 39,
+      "question": "Find definitions for derivatives clearing organizations.",
+      "expected_citations": [
+        "39.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p039-03",
+      "part": 39,
+      "question": "Where are derivatives clearing organization registration procedures?",
+      "expected_citations": [
+        "39.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p039-04",
+      "part": 39,
+      "question": "Find the review of swaps for a Commission clearing requirement determination.",
+      "expected_citations": [
+        "39.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p039-05",
+      "part": 39,
+      "question": "What section discusses exemption from derivatives clearing organization registration?",
+      "expected_citations": [
+        "39.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p043-01",
+      "part": 43,
+      "question": "Find the purpose and scope of real-time public reporting.",
+      "expected_citations": [
+        "43.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p043-02",
+      "part": 43,
+      "question": "Where are real-time swap reporting definitions?",
+      "expected_citations": [
+        "43.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p043-03",
+      "part": 43,
+      "question": "Which section covers method and timing for real-time public reporting?",
+      "expected_citations": [
+        "43.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p043-04",
+      "part": 43,
+      "question": "Find swap transaction and pricing data provisions.",
+      "expected_citations": [
+        "43.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p043-05",
+      "part": 43,
+      "question": "Where are time delays for public dissemination addressed?",
+      "expected_citations": [
+        "43.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p045-01",
+      "part": 45,
+      "question": "Where are swap data reporting definitions?",
+      "expected_citations": [
+        "45.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p045-02",
+      "part": 45,
+      "question": "Find the swap recordkeeping section.",
+      "expected_citations": [
+        "45.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p045-03",
+      "part": 45,
+      "question": "What does 45.3 require?",
+      "expected_citations": [
+        "45.3"
+      ],
+      "split": "tuning",
+      "query_type": "section_lookup"
+    },
+    {
+      "id": "p045-04",
+      "part": 45,
+      "question": "Find continuation data reporting requirements.",
+      "expected_citations": [
+        "45.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p045-05",
+      "part": 45,
+      "question": "Which section addresses unique transaction identifiers for swap reporting?",
+      "expected_citations": [
+        "45.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p046-01",
+      "part": 46,
+      "question": "Find definitions for pre-enactment and transition swaps.",
+      "expected_citations": [
+        "46.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p046-02",
+      "part": 46,
+      "question": "Where is recordkeeping for pre-enactment swaps addressed?",
+      "expected_citations": [
+        "46.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p046-03",
+      "part": 46,
+      "question": "Find data reporting for pre-enactment and transition swaps.",
+      "expected_citations": [
+        "46.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p046-04",
+      "part": 46,
+      "question": "Which section concerns unique identifiers for historical swaps?",
+      "expected_citations": [
+        "46.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p046-05",
+      "part": 46,
+      "question": "Where is third-party facilitation of data reporting for pre-enactment swaps addressed?",
+      "expected_citations": [
+        "46.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p049-01",
+      "part": 49,
+      "question": "Find the scope of swap data repository regulations.",
+      "expected_citations": [
+        "49.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p049-02",
+      "part": 49,
+      "question": "Where are definitions for swap data repositories?",
+      "expected_citations": [
+        "49.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p049-03",
+      "part": 49,
+      "question": "Find procedures for swap data repository registration.",
+      "expected_citations": [
+        "49.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p049-04",
+      "part": 49,
+      "question": "Where is withdrawal from swap data repository registration addressed?",
+      "expected_citations": [
+        "49.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p049-05",
+      "part": 49,
+      "question": "Which section addresses equity interest transfers for swap data repositories?",
+      "expected_citations": [
+        "49.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p050-01",
+      "part": 50,
+      "question": "Find clearing requirement definitions.",
+      "expected_citations": [
+        "50.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p050-02",
+      "part": 50,
+      "question": "Where is treatment of swaps subject to a clearing requirement addressed?",
+      "expected_citations": [
+        "50.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p050-03",
+      "part": 50,
+      "question": "Which clearing requirement section addresses notice to the public?",
+      "expected_citations": [
+        "50.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p050-04",
+      "part": 50,
+      "question": "Find classes of swaps required to be cleared.",
+      "expected_citations": [
+        "50.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p050-05",
+      "part": 50,
+      "question": "Where are swaps exempt from a clearing requirement addressed?",
+      "expected_citations": [
+        "50.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p150-01",
+      "part": 150,
+      "question": "Find definitions for speculative position limits.",
+      "expected_citations": [
+        "150.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p150-02",
+      "part": 150,
+      "question": "Where are federal speculative position limits addressed?",
+      "expected_citations": [
+        "150.2"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p150-03",
+      "part": 150,
+      "question": "Find exemptions from position limits.",
+      "expected_citations": [
+        "150.3"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p150-04",
+      "part": 150,
+      "question": "Which section concerns aggregation of positions?",
+      "expected_citations": [
+        "150.4"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p150-05",
+      "part": 150,
+      "question": "Where are exchange-set speculative position limits addressed?",
+      "expected_citations": [
+        "150.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p180-01",
+      "part": 180,
+      "question": "Find the prohibition on manipulative or deceptive devices.",
+      "expected_citations": [
+        "180.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p180-02",
+      "part": 180,
+      "question": "Where does the rule discuss a scheme or artifice to defraud?",
+      "expected_citations": [
+        "180.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p180-03",
+      "part": 180,
+      "question": "What does 180.1 say?",
+      "expected_citations": [
+        "180.1"
+      ],
+      "split": "tuning",
+      "query_type": "section_lookup"
+    },
+    {
+      "id": "p180-04",
+      "part": 180,
+      "question": "Find the provision concerning material misstatements and omissions in connection with swaps.",
+      "expected_citations": [
+        "180.1"
+      ],
+      "split": "tuning",
+      "query_type": "plain_language"
+    },
+    {
+      "id": "p180-05",
+      "part": 180,
+      "question": "Where is the prohibition on price manipulation addressed?",
+      "expected_citations": [
+        "180.2"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language"
+    }
+  ]
+}

@@ -1,0 +1,4487 @@
+{
+  "summary": {
+    "bm25": {
+      "questions": 19,
+      "recall_at_5": 0.9473684210526315,
+      "mrr_at_5": 0.7105263157894737,
+      "hit_at_5": 0.9473684210526315,
+      "by_part": {
+        "1": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.6666666666666666,
+          "hit_at_5": 1.0
+        },
+        "3": {
+          "recall_at_5": 0.5,
+          "mrr_at_5": 0.16666666666666666,
+          "hit_at_5": 0.5
+        },
+        "22": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "23": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.375,
+          "hit_at_5": 1.0
+        },
+        "37": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "39": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "43": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "45": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.3333333333333333,
+          "hit_at_5": 1.0
+        },
+        "46": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "49": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "50": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.5,
+          "hit_at_5": 1.0
+        },
+        "150": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "180": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.25,
+          "hit_at_5": 1.0
+        }
+      }
+    },
+    "citation_bm25": {
+      "questions": 19,
+      "recall_at_5": 0.9473684210526315,
+      "mrr_at_5": 0.7368421052631579,
+      "hit_at_5": 0.9473684210526315,
+      "by_part": {
+        "1": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.6666666666666666,
+          "hit_at_5": 1.0
+        },
+        "3": {
+          "recall_at_5": 0.5,
+          "mrr_at_5": 0.16666666666666666,
+          "hit_at_5": 0.5
+        },
+        "22": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "23": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.625,
+          "hit_at_5": 1.0
+        },
+        "37": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "39": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "43": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "45": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.3333333333333333,
+          "hit_at_5": 1.0
+        },
+        "46": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "49": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "50": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.5,
+          "hit_at_5": 1.0
+        },
+        "150": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "180": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.25,
+          "hit_at_5": 1.0
+        }
+      }
+    },
+    "tfidf": {
+      "questions": 19,
+      "recall_at_5": 0.8421052631578947,
+      "mrr_at_5": 0.6447368421052632,
+      "hit_at_5": 0.8421052631578947,
+      "by_part": {
+        "1": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "3": {
+          "recall_at_5": 0.5,
+          "mrr_at_5": 0.5,
+          "hit_at_5": 0.5
+        },
+        "22": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "23": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.41666666666666663,
+          "hit_at_5": 1.0
+        },
+        "37": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.75,
+          "hit_at_5": 1.0
+        },
+        "39": {
+          "recall_at_5": 0.5,
+          "mrr_at_5": 0.125,
+          "hit_at_5": 0.5
+        },
+        "43": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "45": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.3333333333333333,
+          "hit_at_5": 1.0
+        },
+        "46": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "49": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "50": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "150": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.3333333333333333,
+          "hit_at_5": 1.0
+        },
+        "180": {
+          "recall_at_5": 0.0,
+          "mrr_at_5": 0.0,
+          "hit_at_5": 0.0
+        }
+      }
+    },
+    "hybrid_rrf": {
+      "questions": 19,
+      "recall_at_5": 0.9473684210526315,
+      "mrr_at_5": 0.7473684210526316,
+      "hit_at_5": 0.9473684210526315,
+      "by_part": {
+        "1": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.75,
+          "hit_at_5": 1.0
+        },
+        "3": {
+          "recall_at_5": 0.5,
+          "mrr_at_5": 0.5,
+          "hit_at_5": 0.5
+        },
+        "22": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "23": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.41666666666666663,
+          "hit_at_5": 1.0
+        },
+        "37": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "39": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.6666666666666666,
+          "hit_at_5": 1.0
+        },
+        "43": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "45": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.3333333333333333,
+          "hit_at_5": 1.0
+        },
+        "46": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "49": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "50": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "150": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 1.0,
+          "hit_at_5": 1.0
+        },
+        "180": {
+          "recall_at_5": 1.0,
+          "mrr_at_5": 0.2,
+          "hit_at_5": 1.0
+        }
+      }
+    }
+  },
+  "per_question": [
+    {
+      "id": "p001-04",
+      "part": 1,
+      "question": "Find the general anti-evasion provision.",
+      "expected_citations": [
+        "1.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "d87303f2d8cb2c83eee382df",
+          "citation": "1.6",
+          "score": 17.81746938528924,
+          "page": 33,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "2923d90eb752c9bb3994d32b",
+          "citation": "150.2",
+          "score": 11.84830563500331,
+          "page": 6,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "82dbb9a1eebc1caa843d3b14",
+          "citation": "23.402",
+          "score": 10.916484045682157,
+          "page": 68,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f467acc1b62ae3be83496f0e",
+          "citation": "1.70",
+          "score": 10.251378835909664,
+          "page": 170,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "42c87d18e7489e358e9ddd52",
+          "citation": "50.10",
+          "score": 7.890664421540061,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p001-04",
+      "part": 1,
+      "question": "Find the general anti-evasion provision.",
+      "expected_citations": [
+        "1.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "d87303f2d8cb2c83eee382df",
+          "citation": "1.6",
+          "score": 17.81746938528924,
+          "page": 33,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "2923d90eb752c9bb3994d32b",
+          "citation": "150.2",
+          "score": 11.84830563500331,
+          "page": 6,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "82dbb9a1eebc1caa843d3b14",
+          "citation": "23.402",
+          "score": 10.916484045682157,
+          "page": 68,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f467acc1b62ae3be83496f0e",
+          "citation": "1.70",
+          "score": 10.251378835909664,
+          "page": 170,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "42c87d18e7489e358e9ddd52",
+          "citation": "50.10",
+          "score": 7.890664421540061,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p001-04",
+      "part": 1,
+      "question": "Find the general anti-evasion provision.",
+      "expected_citations": [
+        "1.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "d87303f2d8cb2c83eee382df",
+          "citation": "1.6",
+          "score": 0.23519660314607946,
+          "page": 33,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "42c87d18e7489e358e9ddd52",
+          "citation": "50.10",
+          "score": 0.1625869570459364,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "82dbb9a1eebc1caa843d3b14",
+          "citation": "23.402",
+          "score": 0.10075887885887902,
+          "page": 68,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f467acc1b62ae3be83496f0e",
+          "citation": "1.70",
+          "score": 0.09468884858802569,
+          "page": 170,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "66f1f73cdf98c0ee0023e7da",
+          "citation": "150.8",
+          "score": 0.08820644991372319,
+          "page": 20,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p001-04",
+      "part": 1,
+      "question": "Find the general anti-evasion provision.",
+      "expected_citations": [
+        "1.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "d87303f2d8cb2c83eee382df",
+          "citation": "1.6",
+          "score": 0.03278688524590164,
+          "page": 33,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "82dbb9a1eebc1caa843d3b14",
+          "citation": "23.402",
+          "score": 0.031746031746031744,
+          "page": 68,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "42c87d18e7489e358e9ddd52",
+          "citation": "50.10",
+          "score": 0.0315136476426799,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "2923d90eb752c9bb3994d32b",
+          "citation": "150.2",
+          "score": 0.03128054740957967,
+          "page": 6,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "f467acc1b62ae3be83496f0e",
+          "citation": "1.70",
+          "score": 0.03125,
+          "page": 170,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p001-05",
+      "part": 1,
+      "question": "Where are books and records requirements addressed?",
+      "expected_citations": [
+        "1.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "881f66a48602557f0c6e4496",
+          "citation": "1.31",
+          "score": 7.819424276181856,
+          "page": 114,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "2512a4d48fc9d36e6e4859f4",
+          "citation": "1.7",
+          "score": 6.68466217391275,
+          "page": 34,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "13d7a1843f7245423116e5dc",
+          "citation": "23.101",
+          "score": 6.339668770992517,
+          "page": 18,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "edd0329eba8027d63a8947fa",
+          "citation": "37.1401",
+          "score": 6.144809733543954,
+          "page": 23,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p001-05",
+      "part": 1,
+      "question": "Where are books and records requirements addressed?",
+      "expected_citations": [
+        "1.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "881f66a48602557f0c6e4496",
+          "citation": "1.31",
+          "score": 7.819424276181856,
+          "page": 114,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "2512a4d48fc9d36e6e4859f4",
+          "citation": "1.7",
+          "score": 6.68466217391275,
+          "page": 34,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "13d7a1843f7245423116e5dc",
+          "citation": "23.101",
+          "score": 6.339668770992517,
+          "page": 18,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "edd0329eba8027d63a8947fa",
+          "citation": "37.1401",
+          "score": 6.144809733543954,
+          "page": 23,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p001-05",
+      "part": 1,
+      "question": "Where are books and records requirements addressed?",
+      "expected_citations": [
+        "1.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "2512a4d48fc9d36e6e4859f4",
+          "citation": "1.7",
+          "score": 0.15070474685947527,
+          "page": 34,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "881f66a48602557f0c6e4496",
+          "citation": "1.31",
+          "score": 0.11182246609649546,
+          "page": 114,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "918c186b1cd4c699aa2b8a81",
+          "citation": "37.502",
+          "score": 0.10516816519901998,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "eadda6bb3f88ece704de06f3",
+          "citation": "49.7",
+          "score": 0.09220762345275049,
+          "page": 7,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "06efac97431442c84da1181f",
+          "citation": "22.8",
+          "score": 0.08888642371683417,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p001-05",
+      "part": 1,
+      "question": "Where are books and records requirements addressed?",
+      "expected_citations": [
+        "1.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "881f66a48602557f0c6e4496",
+          "citation": "1.31",
+          "score": 0.03252247488101534,
+          "page": 114,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "2512a4d48fc9d36e6e4859f4",
+          "citation": "1.7",
+          "score": 0.032266458495966696,
+          "page": 34,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 0.03128054740957967,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "918c186b1cd4c699aa2b8a81",
+          "citation": "37.502",
+          "score": 0.03057889822595705,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "13d7a1843f7245423116e5dc",
+          "citation": "23.101",
+          "score": 0.030117753623188408,
+          "page": 18,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.5,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p003-04",
+      "part": 3,
+      "question": "Does the rule text discuss registration in one capacity and another capacity?",
+      "expected_citations": [
+        "3.4"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "46c183414359e91c398bc3c0",
+          "citation": "3.56",
+          "score": 8.324435977952577,
+          "page": 15,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "5f86aeff75d3ba16becc71d4",
+          "citation": "3.33",
+          "score": 8.089058764371158,
+          "page": 24,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "3d58b532b44ec504bb939463",
+          "citation": "3.4",
+          "score": 7.959737190119576,
+          "page": 7,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "a998399f8965d8c023dc967f",
+          "citation": "3.45",
+          "score": 7.106441431038709,
+          "page": 28,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "e28af5acbfaec9a99671ecc9",
+          "citation": "3.57",
+          "score": 7.051530153166121,
+          "page": 41,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p003-04",
+      "part": 3,
+      "question": "Does the rule text discuss registration in one capacity and another capacity?",
+      "expected_citations": [
+        "3.4"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "46c183414359e91c398bc3c0",
+          "citation": "3.56",
+          "score": 8.324435977952577,
+          "page": 15,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "5f86aeff75d3ba16becc71d4",
+          "citation": "3.33",
+          "score": 8.089058764371158,
+          "page": 24,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "3d58b532b44ec504bb939463",
+          "citation": "3.4",
+          "score": 7.959737190119576,
+          "page": 7,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "a998399f8965d8c023dc967f",
+          "citation": "3.45",
+          "score": 7.106441431038709,
+          "page": 28,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "e28af5acbfaec9a99671ecc9",
+          "citation": "3.57",
+          "score": 7.051530153166121,
+          "page": 41,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p003-04",
+      "part": 3,
+      "question": "Does the rule text discuss registration in one capacity and another capacity?",
+      "expected_citations": [
+        "3.4"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "3d58b532b44ec504bb939463",
+          "citation": "3.4",
+          "score": 0.21047498067011272,
+          "page": 7,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "d16711f0394d6a158a145250",
+          "citation": "37.900",
+          "score": 0.11631053801700462,
+          "page": 20,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "5f86aeff75d3ba16becc71d4",
+          "citation": "3.33",
+          "score": 0.09196432694704301,
+          "page": 24,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "ec277dc29a8825c3224aef46",
+          "citation": "3.12",
+          "score": 0.0899032307643291,
+          "page": 14,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "a998399f8965d8c023dc967f",
+          "citation": "3.45",
+          "score": 0.08100177308103577,
+          "page": 28,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p003-04",
+      "part": 3,
+      "question": "Does the rule text discuss registration in one capacity and another capacity?",
+      "expected_citations": [
+        "3.4"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "3d58b532b44ec504bb939463",
+          "citation": "3.4",
+          "score": 0.032266458495966696,
+          "page": 7,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "5f86aeff75d3ba16becc71d4",
+          "citation": "3.33",
+          "score": 0.03200204813108039,
+          "page": 24,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "46c183414359e91c398bc3c0",
+          "citation": "3.56",
+          "score": 0.031099324975891997,
+          "page": 15,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "a998399f8965d8c023dc967f",
+          "citation": "3.45",
+          "score": 0.031009615384615385,
+          "page": 28,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "ec277dc29a8825c3224aef46",
+          "citation": "3.12",
+          "score": 0.030330882352941176,
+          "page": 14,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p003-05",
+      "part": 3,
+      "question": "Find registration provisions for futures commission merchants.",
+      "expected_citations": [
+        "3.10"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 9.324378637080013,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "6f82a2b00c3f41534284ecb8",
+          "citation": "1.15",
+          "score": 8.332198683954966,
+          "page": 60,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "2c2cd8f10e71cfb75082a5f6",
+          "citation": "1.14",
+          "score": 6.934356265970449,
+          "page": 56,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "46c183414359e91c398bc3c0",
+          "citation": "3.56",
+          "score": 6.379792108726189,
+          "page": 15,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "f567e7632fe5f2f418597422",
+          "citation": "1.18",
+          "score": 5.959070187698506,
+          "page": 95,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "hit_at_5": 0.0
+      },
+      "pass": false
+    },
+    {
+      "id": "p003-05",
+      "part": 3,
+      "question": "Find registration provisions for futures commission merchants.",
+      "expected_citations": [
+        "3.10"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 9.324378637080013,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "6f82a2b00c3f41534284ecb8",
+          "citation": "1.15",
+          "score": 8.332198683954966,
+          "page": 60,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "2c2cd8f10e71cfb75082a5f6",
+          "citation": "1.14",
+          "score": 6.934356265970449,
+          "page": 56,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "46c183414359e91c398bc3c0",
+          "citation": "3.56",
+          "score": 6.379792108726189,
+          "page": 15,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "f567e7632fe5f2f418597422",
+          "citation": "1.18",
+          "score": 5.959070187698506,
+          "page": 95,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "hit_at_5": 0.0
+      },
+      "pass": false
+    },
+    {
+      "id": "p003-05",
+      "part": 3,
+      "question": "Find registration provisions for futures commission merchants.",
+      "expected_citations": [
+        "3.10"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "022a9ca3883b133e89c939f4",
+          "citation": "22.6",
+          "score": 0.162510174589792,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "ceb951e5b24969d54b63026a",
+          "citation": "22.4",
+          "score": 0.1507395862235525,
+          "page": 10,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "e03815d8b5cc0dbc3114dc1d",
+          "citation": "37.2",
+          "score": 0.11653609976235402,
+          "page": 2,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 0.11530958046894504,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "16485102293941dec3b03bec",
+          "citation": "1.30",
+          "score": 0.11369766831161451,
+          "page": 114,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "hit_at_5": 0.0
+      },
+      "pass": false
+    },
+    {
+      "id": "p003-05",
+      "part": 3,
+      "question": "Find registration provisions for futures commission merchants.",
+      "expected_citations": [
+        "3.10"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 0.032018442622950824,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "6f82a2b00c3f41534284ecb8",
+          "citation": "1.15",
+          "score": 0.030621785881252923,
+          "page": 60,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "baab20f270e97e151bfa9fd9",
+          "citation": "22.5",
+          "score": 0.029857397504456328,
+          "page": 10,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "16485102293941dec3b03bec",
+          "citation": "1.30",
+          "score": 0.02967032967032967,
+          "page": 114,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "2c2cd8f10e71cfb75082a5f6",
+          "citation": "1.14",
+          "score": 0.028693528693528692,
+          "page": 56,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "hit_at_5": 0.0
+      },
+      "pass": false
+    },
+    {
+      "id": "p022-04",
+      "part": 22,
+      "question": "Where is treatment by permitted depositories addressed for cleared swaps collateral?",
+      "expected_citations": [
+        "22.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "658ad3bdde1e48064f951bfd",
+          "citation": "22.7",
+          "score": 17.277388859642908,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c2b67c4d6cf2cd484529a8d3",
+          "citation": "22.2",
+          "score": 16.29480250171152,
+          "page": 4,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "65a61835a219a81718f26cdb",
+          "citation": "22.9",
+          "score": 15.903443298566268,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c6c4c7d93114d6864eff32ac",
+          "citation": "22.3",
+          "score": 14.082414347782178,
+          "page": 9,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "848539e37dfffb032145c263",
+          "citation": "1.20",
+          "score": 11.552211205377056,
+          "page": 96,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p022-04",
+      "part": 22,
+      "question": "Where is treatment by permitted depositories addressed for cleared swaps collateral?",
+      "expected_citations": [
+        "22.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "658ad3bdde1e48064f951bfd",
+          "citation": "22.7",
+          "score": 17.277388859642908,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c2b67c4d6cf2cd484529a8d3",
+          "citation": "22.2",
+          "score": 16.29480250171152,
+          "page": 4,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "65a61835a219a81718f26cdb",
+          "citation": "22.9",
+          "score": 15.903443298566268,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c6c4c7d93114d6864eff32ac",
+          "citation": "22.3",
+          "score": 14.082414347782178,
+          "page": 9,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "848539e37dfffb032145c263",
+          "citation": "1.20",
+          "score": 11.552211205377056,
+          "page": 96,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p022-04",
+      "part": 22,
+      "question": "Where is treatment by permitted depositories addressed for cleared swaps collateral?",
+      "expected_citations": [
+        "22.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "658ad3bdde1e48064f951bfd",
+          "citation": "22.7",
+          "score": 0.3872277412659747,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "65a61835a219a81718f26cdb",
+          "citation": "22.9",
+          "score": 0.24830973269916182,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "a01435d2cdef0fd451de1366",
+          "citation": "50.2",
+          "score": 0.21095647027789272,
+          "page": 2,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "ff6fd42f81e95e099512593a",
+          "citation": "22.15",
+          "score": 0.1934447964749328,
+          "page": 15,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c6c4c7d93114d6864eff32ac",
+          "citation": "22.3",
+          "score": 0.184728763871225,
+          "page": 9,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p022-04",
+      "part": 22,
+      "question": "Where is treatment by permitted depositories addressed for cleared swaps collateral?",
+      "expected_citations": [
+        "22.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "658ad3bdde1e48064f951bfd",
+          "citation": "22.7",
+          "score": 0.03278688524590164,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "65a61835a219a81718f26cdb",
+          "citation": "22.9",
+          "score": 0.03200204813108039,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c6c4c7d93114d6864eff32ac",
+          "citation": "22.3",
+          "score": 0.031009615384615385,
+          "page": 9,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "ff6fd42f81e95e099512593a",
+          "citation": "22.15",
+          "score": 0.030776515151515152,
+          "page": 15,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c2b67c4d6cf2cd484529a8d3",
+          "citation": "22.2",
+          "score": 0.030621785881252923,
+          "page": 4,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p022-05",
+      "part": 22,
+      "question": "Find the situs provision for cleared swaps customer collateral.",
+      "expected_citations": [
+        "22.8"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "06efac97431442c84da1181f",
+          "citation": "22.8",
+          "score": 16.617158864189523,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 10.526200941389869,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "c6c4c7d93114d6864eff32ac",
+          "citation": "22.3",
+          "score": 10.082050739636383,
+          "page": 9,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c2b67c4d6cf2cd484529a8d3",
+          "citation": "22.2",
+          "score": 10.02264210506943,
+          "page": 4,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "9d38d75a80dcf54973414358",
+          "citation": "22.12",
+          "score": 9.773736077282251,
+          "page": 12,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p022-05",
+      "part": 22,
+      "question": "Find the situs provision for cleared swaps customer collateral.",
+      "expected_citations": [
+        "22.8"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "06efac97431442c84da1181f",
+          "citation": "22.8",
+          "score": 16.617158864189523,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 10.526200941389869,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "c6c4c7d93114d6864eff32ac",
+          "citation": "22.3",
+          "score": 10.082050739636383,
+          "page": 9,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c2b67c4d6cf2cd484529a8d3",
+          "citation": "22.2",
+          "score": 10.02264210506943,
+          "page": 4,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "9d38d75a80dcf54973414358",
+          "citation": "22.12",
+          "score": 9.773736077282251,
+          "page": 12,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p022-05",
+      "part": 22,
+      "question": "Find the situs provision for cleared swaps customer collateral.",
+      "expected_citations": [
+        "22.8"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "06efac97431442c84da1181f",
+          "citation": "22.8",
+          "score": 0.47076285656187256,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "658ad3bdde1e48064f951bfd",
+          "citation": "22.7",
+          "score": 0.23811145497167596,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "022a9ca3883b133e89c939f4",
+          "citation": "22.6",
+          "score": 0.19116350679971741,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "ff6fd42f81e95e099512593a",
+          "citation": "22.15",
+          "score": 0.18695569942353085,
+          "page": 15,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "420a33413f8b6118f4d8bdd7",
+          "citation": "22.13",
+          "score": 0.1638874591511114,
+          "page": 13,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p022-05",
+      "part": 22,
+      "question": "Find the situs provision for cleared swaps customer collateral.",
+      "expected_citations": [
+        "22.8"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "06efac97431442c84da1181f",
+          "citation": "22.8",
+          "score": 0.03278688524590164,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "658ad3bdde1e48064f951bfd",
+          "citation": "22.7",
+          "score": 0.030834914611005692,
+          "page": 11,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "c6c4c7d93114d6864eff32ac",
+          "citation": "22.3",
+          "score": 0.030798389007344232,
+          "page": 9,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "420a33413f8b6118f4d8bdd7",
+          "citation": "22.13",
+          "score": 0.030536130536130537,
+          "page": 13,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        },
+        {
+          "chunk_id": "ff6fd42f81e95e099512593a",
+          "citation": "22.15",
+          "score": 0.030117753623188408,
+          "page": 15,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-04",
+      "part": 23,
+      "question": "What does 23.502 require?",
+      "expected_citations": [
+        "23.502"
+      ],
+      "split": "held_out",
+      "query_type": "section_lookup",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "918c186b1cd4c699aa2b8a81",
+          "citation": "37.502",
+          "score": 8.85293810498967,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "0357941a191a58067fcbfeb8",
+          "citation": "23.502",
+          "score": 8.541454320482572,
+          "page": 84,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "8763204355baefb031100292",
+          "citation": "23.501",
+          "score": 4.5804338957112405,
+          "page": 81,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "c5e80f90c612ab167c59757f",
+          "citation": "23.152",
+          "score": 1.774373723932669,
+          "page": 32,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "16e02ebf60b8f209cef2442b",
+          "citation": "23.156",
+          "score": 1.7572573843372656,
+          "page": 34,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.5,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-04",
+      "part": 23,
+      "question": "What does 23.502 require?",
+      "expected_citations": [
+        "23.502"
+      ],
+      "split": "held_out",
+      "query_type": "section_lookup",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "0357941a191a58067fcbfeb8",
+          "citation": "23.502",
+          "score": 100.0,
+          "page": 84,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "918c186b1cd4c699aa2b8a81",
+          "citation": "37.502",
+          "score": 8.85293810498967,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "8763204355baefb031100292",
+          "citation": "23.501",
+          "score": 4.5804338957112405,
+          "page": 81,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "c5e80f90c612ab167c59757f",
+          "citation": "23.152",
+          "score": 1.774373723932669,
+          "page": 32,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "16e02ebf60b8f209cef2442b",
+          "citation": "23.156",
+          "score": 1.7572573843372656,
+          "page": 34,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-04",
+      "part": 23,
+      "question": "What does 23.502 require?",
+      "expected_citations": [
+        "23.502"
+      ],
+      "split": "held_out",
+      "query_type": "section_lookup",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "918c186b1cd4c699aa2b8a81",
+          "citation": "37.502",
+          "score": 0.3993021670979285,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "0357941a191a58067fcbfeb8",
+          "citation": "23.502",
+          "score": 0.14116352707126456,
+          "page": 84,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "40dfd6ec869aea68787859fb",
+          "citation": "23.150",
+          "score": 0.08505950911517471,
+          "page": 27,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "c9f46eaa0895f4edc2cc9333",
+          "citation": "23.703",
+          "score": 0.07016833094282299,
+          "page": 106,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "8763204355baefb031100292",
+          "citation": "23.501",
+          "score": 0.06548448282873376,
+          "page": 81,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.5,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-04",
+      "part": 23,
+      "question": "What does 23.502 require?",
+      "expected_citations": [
+        "23.502"
+      ],
+      "split": "held_out",
+      "query_type": "section_lookup",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "918c186b1cd4c699aa2b8a81",
+          "citation": "37.502",
+          "score": 0.03278688524590164,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "0357941a191a58067fcbfeb8",
+          "citation": "23.502",
+          "score": 0.03225806451612903,
+          "page": 84,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "8763204355baefb031100292",
+          "citation": "23.501",
+          "score": 0.03125763125763126,
+          "page": 81,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "40dfd6ec869aea68787859fb",
+          "citation": "23.150",
+          "score": 0.03057889822595705,
+          "page": 27,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "c5e80f90c612ab167c59757f",
+          "citation": "23.152",
+          "score": 0.0293236301369863,
+          "page": 32,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.5,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-05",
+      "part": 23,
+      "question": "Where are minimum financial requirements for swap dealers addressed?",
+      "expected_citations": [
+        "23.101"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "fc64a2ae97b0aa0d27e4b896",
+          "citation": "23.106",
+          "score": 8.242078684040312,
+          "page": 26,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "fd3632d48b4af8fe41e79f91",
+          "citation": "1.16",
+          "score": 6.962748811728441,
+          "page": 64,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "7e885b081d23996c4f6e3ce4",
+          "citation": "23.101",
+          "score": 6.609267935709982,
+          "page": 12,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "72e7bf4c43f4e508f2c89ffd",
+          "citation": "1.52",
+          "score": 6.3885174701408305,
+          "page": 140,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.25,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-05",
+      "part": 23,
+      "question": "Where are minimum financial requirements for swap dealers addressed?",
+      "expected_citations": [
+        "23.101"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "fc64a2ae97b0aa0d27e4b896",
+          "citation": "23.106",
+          "score": 8.242078684040312,
+          "page": 26,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "fd3632d48b4af8fe41e79f91",
+          "citation": "1.16",
+          "score": 6.962748811728441,
+          "page": 64,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "7e885b081d23996c4f6e3ce4",
+          "citation": "23.101",
+          "score": 6.609267935709982,
+          "page": 12,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "72e7bf4c43f4e508f2c89ffd",
+          "citation": "1.52",
+          "score": 6.3885174701408305,
+          "page": 140,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.25,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-05",
+      "part": 23,
+      "question": "Where are minimum financial requirements for swap dealers addressed?",
+      "expected_citations": [
+        "23.101"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "0377c2d3c3ad7504380ed602",
+          "citation": "37.702",
+          "score": 0.10742164709171213,
+          "page": 19,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "fc64a2ae97b0aa0d27e4b896",
+          "citation": "23.106",
+          "score": 0.10574014028671508,
+          "page": 26,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "7e885b081d23996c4f6e3ce4",
+          "citation": "23.101",
+          "score": 0.09105382993158864,
+          "page": 12,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f20ecc3fa92284caf31c3b7d",
+          "citation": "23.21",
+          "score": 0.08295542446832496,
+          "page": 2,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 0.08247526936861613,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p023-05",
+      "part": 23,
+      "question": "Where are minimum financial requirements for swap dealers addressed?",
+      "expected_citations": [
+        "23.101"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "fc64a2ae97b0aa0d27e4b896",
+          "citation": "23.106",
+          "score": 0.03252247488101534,
+          "page": 26,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 0.0315136476426799,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "7e885b081d23996c4f6e3ce4",
+          "citation": "23.101",
+          "score": 0.03149801587301587,
+          "page": 12,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "fd3632d48b4af8fe41e79f91",
+          "citation": "1.16",
+          "score": 0.029571646010002173,
+          "page": 64,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        },
+        {
+          "chunk_id": "f4944bc1dd95f31a047e5f98",
+          "citation": "22.17",
+          "score": 0.02904040404040404,
+          "page": 16,
+          "file": "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-04",
+      "part": 37,
+      "question": "Where is enforceability addressed for swap execution facilities?",
+      "expected_citations": [
+        "37.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "14396692aab1fce736ba1ea3",
+          "citation": "37.6",
+          "score": 8.505062962352701,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "0b2bb0dfafdce4458b2ff615",
+          "citation": "39.7",
+          "score": 8.07564469749379,
+          "page": 15,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 6.398017101097982,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "5c54c20721b9cdfe2c9e243b",
+          "citation": "37.9",
+          "score": 6.315894287856737,
+          "page": 35,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-04",
+      "part": 37,
+      "question": "Where is enforceability addressed for swap execution facilities?",
+      "expected_citations": [
+        "37.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "14396692aab1fce736ba1ea3",
+          "citation": "37.6",
+          "score": 8.505062962352701,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "0b2bb0dfafdce4458b2ff615",
+          "citation": "39.7",
+          "score": 8.07564469749379,
+          "page": 15,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 6.398017101097982,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "5c54c20721b9cdfe2c9e243b",
+          "citation": "37.9",
+          "score": 6.315894287856737,
+          "page": 35,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-04",
+      "part": 37,
+      "question": "Where is enforceability addressed for swap execution facilities?",
+      "expected_citations": [
+        "37.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "0b2bb0dfafdce4458b2ff615",
+          "citation": "39.7",
+          "score": 0.15789932725727687,
+          "page": 15,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "14396692aab1fce736ba1ea3",
+          "citation": "37.6",
+          "score": 0.149495510109615,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "8914ada7dd3a8752cef06a2b",
+          "citation": "37.1",
+          "score": 0.11605696211277375,
+          "page": 2,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "01d1b304e5d0fcd7bd1119ba",
+          "citation": "37.400",
+          "score": 0.11008311909575856,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 0.10928804489410751,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.5,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-04",
+      "part": 37,
+      "question": "Where is enforceability addressed for swap execution facilities?",
+      "expected_citations": [
+        "37.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "14396692aab1fce736ba1ea3",
+          "citation": "37.6",
+          "score": 0.03252247488101534,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "0b2bb0dfafdce4458b2ff615",
+          "citation": "39.7",
+          "score": 0.03252247488101534,
+          "page": 15,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 0.031009615384615385,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "01d1b304e5d0fcd7bd1119ba",
+          "citation": "37.400",
+          "score": 0.03055037313432836,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 0.029957522915269395,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-05",
+      "part": 37,
+      "question": "Find prohibited use of data collected for regulatory purposes by swap execution facilities.",
+      "expected_citations": [
+        "37.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 23.69552674450822,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "52193303bfaefaf42e34100f",
+          "citation": "23.603",
+          "score": 10.12079022183582,
+          "page": 98,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "65afe9a7b4c9d5de7dc376cf",
+          "citation": "49.17",
+          "score": 9.901182111449577,
+          "page": 12,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "ddb935a6937b1bd7f14c8cb2",
+          "citation": "37.203",
+          "score": 9.437333987896553,
+          "page": 12,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 9.181759707695546,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-05",
+      "part": 37,
+      "question": "Find prohibited use of data collected for regulatory purposes by swap execution facilities.",
+      "expected_citations": [
+        "37.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 23.69552674450822,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "52193303bfaefaf42e34100f",
+          "citation": "23.603",
+          "score": 10.12079022183582,
+          "page": 98,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "65afe9a7b4c9d5de7dc376cf",
+          "citation": "49.17",
+          "score": 9.901182111449577,
+          "page": 12,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "ddb935a6937b1bd7f14c8cb2",
+          "citation": "37.203",
+          "score": 9.437333987896553,
+          "page": 12,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "5fa5f97affbddf01e95277ed",
+          "citation": "3.75",
+          "score": 9.181759707695546,
+          "page": 40,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-05",
+      "part": 37,
+      "question": "Find prohibited use of data collected for regulatory purposes by swap execution facilities.",
+      "expected_citations": [
+        "37.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 0.4180521473486378,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "11bacb5957840b1b580e6c61",
+          "citation": "46.10",
+          "score": 0.16878966506837945,
+          "page": 8,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "bb4b2323944a30742d2a8399",
+          "citation": "37.504",
+          "score": 0.11192459600837369,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "34b2ba49e7d7b6fd3e4200dd",
+          "citation": "37.204",
+          "score": 0.11082786626755943,
+          "page": 14,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "c3c698c8984d747d50919eb8",
+          "citation": "45.11",
+          "score": 0.109333755132839,
+          "page": 15,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p037-05",
+      "part": 37,
+      "question": "Find prohibited use of data collected for regulatory purposes by swap execution facilities.",
+      "expected_citations": [
+        "37.7"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "7569ad6d1367e94105ec0c5a",
+          "citation": "37.7",
+          "score": 0.03278688524590164,
+          "page": 7,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "52193303bfaefaf42e34100f",
+          "citation": "23.603",
+          "score": 0.031054405392392875,
+          "page": 98,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "65afe9a7b4c9d5de7dc376cf",
+          "citation": "49.17",
+          "score": 0.03036576949620428,
+          "page": 12,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "11bacb5957840b1b580e6c61",
+          "citation": "46.10",
+          "score": 0.029827662395050816,
+          "page": 8,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "587a6e01500762c9dddc1061",
+          "citation": "49.11",
+          "score": 0.028790389395194696,
+          "page": 9,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p039-04",
+      "part": 39,
+      "question": "Find the review of swaps for a Commission clearing requirement determination.",
+      "expected_citations": [
+        "39.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "60c23a85a315ba4efa6492cd",
+          "citation": "39.5",
+          "score": 9.027476892609526,
+          "page": 8,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "1c9e088b1a436c4744fc809a",
+          "citation": "37.1500",
+          "score": 7.052031661109405,
+          "page": 28,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "1c95810a62d3c44a2c578886",
+          "citation": "50.25",
+          "score": 6.895552191241941,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "20765bca038fa1e220ea3802",
+          "citation": "39.3",
+          "score": 6.754482541380996,
+          "page": 4,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "1f658e155f1454001f128d81",
+          "citation": "1.41",
+          "score": 6.505746266777042,
+          "page": 169,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p039-04",
+      "part": 39,
+      "question": "Find the review of swaps for a Commission clearing requirement determination.",
+      "expected_citations": [
+        "39.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "60c23a85a315ba4efa6492cd",
+          "citation": "39.5",
+          "score": 9.027476892609526,
+          "page": 8,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "1c9e088b1a436c4744fc809a",
+          "citation": "37.1500",
+          "score": 7.052031661109405,
+          "page": 28,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "1c95810a62d3c44a2c578886",
+          "citation": "50.25",
+          "score": 6.895552191241941,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "20765bca038fa1e220ea3802",
+          "citation": "39.3",
+          "score": 6.754482541380996,
+          "page": 4,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "1f658e155f1454001f128d81",
+          "citation": "1.41",
+          "score": 6.505746266777042,
+          "page": 169,
+          "file": "CFTC_17CFR_Part001_General-Regulations_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p039-04",
+      "part": 39,
+      "question": "Find the review of swaps for a Commission clearing requirement determination.",
+      "expected_citations": [
+        "39.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "cb5838ad86279a3baccc2fc2",
+          "citation": "50.5",
+          "score": 0.17164946127980896,
+          "page": 7,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "a01435d2cdef0fd451de1366",
+          "citation": "50.2",
+          "score": 0.1660466740375381,
+          "page": 2,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "d9e5a56d34ad0b2009df9203",
+          "citation": "50.6",
+          "score": 0.139472487964314,
+          "page": 7,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "60c23a85a315ba4efa6492cd",
+          "citation": "39.5",
+          "score": 0.13547494486043957,
+          "page": 8,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "1c95810a62d3c44a2c578886",
+          "citation": "50.25",
+          "score": 0.13346511996498367,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.25,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p039-04",
+      "part": 39,
+      "question": "Find the review of swaps for a Commission clearing requirement determination.",
+      "expected_citations": [
+        "39.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "60c23a85a315ba4efa6492cd",
+          "citation": "39.5",
+          "score": 0.032018442622950824,
+          "page": 8,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "1c95810a62d3c44a2c578886",
+          "citation": "50.25",
+          "score": 0.03125763125763126,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "d9e5a56d34ad0b2009df9203",
+          "citation": "50.6",
+          "score": 0.029957522915269395,
+          "page": 7,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "1c9e088b1a436c4744fc809a",
+          "citation": "37.1500",
+          "score": 0.029827662395050816,
+          "page": 28,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "20765bca038fa1e220ea3802",
+          "citation": "39.3",
+          "score": 0.029513888888888888,
+          "page": 4,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p039-05",
+      "part": 39,
+      "question": "What section discusses exemption from derivatives clearing organization registration?",
+      "expected_citations": [
+        "39.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "aea859d09b66eda41395886a",
+          "citation": "39.6",
+          "score": 9.951988447022016,
+          "page": 10,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "09e72eece4265834454487a4",
+          "citation": "39.1",
+          "score": 8.564681637773564,
+          "page": 2,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "057ff48da8559c0fbc0ac3c7",
+          "citation": "39.4",
+          "score": 8.116506013992165,
+          "page": 7,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "46c183414359e91c398bc3c0",
+          "citation": "3.56",
+          "score": 6.865863899306256,
+          "page": 15,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "797a9bf64ac3292bca6e9b3d",
+          "citation": "3.10",
+          "score": 6.730749795500918,
+          "page": 8,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p039-05",
+      "part": 39,
+      "question": "What section discusses exemption from derivatives clearing organization registration?",
+      "expected_citations": [
+        "39.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "aea859d09b66eda41395886a",
+          "citation": "39.6",
+          "score": 9.951988447022016,
+          "page": 10,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "09e72eece4265834454487a4",
+          "citation": "39.1",
+          "score": 8.564681637773564,
+          "page": 2,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "057ff48da8559c0fbc0ac3c7",
+          "citation": "39.4",
+          "score": 8.116506013992165,
+          "page": 7,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "46c183414359e91c398bc3c0",
+          "citation": "3.56",
+          "score": 6.865863899306256,
+          "page": 15,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        },
+        {
+          "chunk_id": "797a9bf64ac3292bca6e9b3d",
+          "citation": "3.10",
+          "score": 6.730749795500918,
+          "page": 8,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p039-05",
+      "part": 39,
+      "question": "What section discusses exemption from derivatives clearing organization registration?",
+      "expected_citations": [
+        "39.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "09e72eece4265834454487a4",
+          "citation": "39.1",
+          "score": 0.24444867224294797,
+          "page": 2,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "6a77738990ba25a835cc7e20",
+          "citation": "37.701",
+          "score": 0.1607754548723541,
+          "page": 19,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "e26c6e298edfdb789e87231c",
+          "citation": "39.9",
+          "score": 0.14694734808339163,
+          "page": 16,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "057ff48da8559c0fbc0ac3c7",
+          "citation": "39.4",
+          "score": 0.1385652027733016,
+          "page": 7,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "42c87d18e7489e358e9ddd52",
+          "citation": "50.10",
+          "score": 0.12128231651958253,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "hit_at_5": 0.0
+      },
+      "pass": false
+    },
+    {
+      "id": "p039-05",
+      "part": 39,
+      "question": "What section discusses exemption from derivatives clearing organization registration?",
+      "expected_citations": [
+        "39.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "09e72eece4265834454487a4",
+          "citation": "39.1",
+          "score": 0.03252247488101534,
+          "page": 2,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "057ff48da8559c0fbc0ac3c7",
+          "citation": "39.4",
+          "score": 0.03149801587301587,
+          "page": 7,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "aea859d09b66eda41395886a",
+          "citation": "39.6",
+          "score": 0.03131881575727918,
+          "page": 10,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "42c87d18e7489e358e9ddd52",
+          "citation": "50.10",
+          "score": 0.028205128205128206,
+          "page": 8,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "6a77738990ba25a835cc7e20",
+          "citation": "37.701",
+          "score": 0.027118043247075507,
+          "page": 19,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p043-05",
+      "part": 43,
+      "question": "Where are time delays for public dissemination addressed?",
+      "expected_citations": [
+        "43.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 18.922391013944875,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "afebeb585276f25252e7f98f",
+          "citation": "43.7",
+          "score": 14.18324849322433,
+          "page": 18,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "e75839d05cf61bb9590a5fdb",
+          "citation": "43.3",
+          "score": 13.512343034335046,
+          "page": 5,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "38ee93c50e3ec51df50a7217",
+          "citation": "49.15",
+          "score": 9.803595448878129,
+          "page": 11,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "08d1905d400981bc9ea8298d",
+          "citation": "43.4",
+          "score": 8.632014713811852,
+          "page": 9,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p043-05",
+      "part": 43,
+      "question": "Where are time delays for public dissemination addressed?",
+      "expected_citations": [
+        "43.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 18.922391013944875,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "afebeb585276f25252e7f98f",
+          "citation": "43.7",
+          "score": 14.18324849322433,
+          "page": 18,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "e75839d05cf61bb9590a5fdb",
+          "citation": "43.3",
+          "score": 13.512343034335046,
+          "page": 5,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "38ee93c50e3ec51df50a7217",
+          "citation": "49.15",
+          "score": 9.803595448878129,
+          "page": 11,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "08d1905d400981bc9ea8298d",
+          "citation": "43.4",
+          "score": 8.632014713811852,
+          "page": 9,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p043-05",
+      "part": 43,
+      "question": "Where are time delays for public dissemination addressed?",
+      "expected_citations": [
+        "43.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 0.19378888021733934,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "38ee93c50e3ec51df50a7217",
+          "citation": "49.15",
+          "score": 0.1535052722277881,
+          "page": 11,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "e75839d05cf61bb9590a5fdb",
+          "citation": "43.3",
+          "score": 0.10880601222464634,
+          "page": 5,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "aed8c736bd555823e44adb92",
+          "citation": "23.205",
+          "score": 0.10414595516490228,
+          "page": 67,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "afebeb585276f25252e7f98f",
+          "citation": "43.7",
+          "score": 0.0716552730317111,
+          "page": 18,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p043-05",
+      "part": 43,
+      "question": "Where are time delays for public dissemination addressed?",
+      "expected_citations": [
+        "43.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 0.03278688524590164,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "38ee93c50e3ec51df50a7217",
+          "citation": "49.15",
+          "score": 0.031754032258064516,
+          "page": 11,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "e75839d05cf61bb9590a5fdb",
+          "citation": "43.3",
+          "score": 0.031746031746031744,
+          "page": 5,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "afebeb585276f25252e7f98f",
+          "citation": "43.7",
+          "score": 0.0315136476426799,
+          "page": 18,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "08d1905d400981bc9ea8298d",
+          "citation": "43.4",
+          "score": 0.030309988518943745,
+          "page": 9,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p045-05",
+      "part": 45,
+      "question": "Which section addresses unique transaction identifiers for swap reporting?",
+      "expected_citations": [
+        "45.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "76e15cd765564665aeb2f422",
+          "citation": "46.4",
+          "score": 16.1250313779123,
+          "page": 5,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "3155ded7527f1592f46a1256",
+          "citation": "45.7",
+          "score": 15.677025805167702,
+          "page": 11,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "f74f17e81ac315156c86bec8",
+          "citation": "45.5",
+          "score": 15.258003212953984,
+          "page": 7,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "ae63df1bed1cc29a4e1667e5",
+          "citation": "45.6",
+          "score": 10.1510236426722,
+          "page": 9,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "2686370a5e66a8f2074deb0b",
+          "citation": "23.506",
+          "score": 9.085559269064628,
+          "page": 88,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p045-05",
+      "part": 45,
+      "question": "Which section addresses unique transaction identifiers for swap reporting?",
+      "expected_citations": [
+        "45.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "76e15cd765564665aeb2f422",
+          "citation": "46.4",
+          "score": 16.1250313779123,
+          "page": 5,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "3155ded7527f1592f46a1256",
+          "citation": "45.7",
+          "score": 15.677025805167702,
+          "page": 11,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "f74f17e81ac315156c86bec8",
+          "citation": "45.5",
+          "score": 15.258003212953984,
+          "page": 7,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "ae63df1bed1cc29a4e1667e5",
+          "citation": "45.6",
+          "score": 10.1510236426722,
+          "page": 9,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "2686370a5e66a8f2074deb0b",
+          "citation": "23.506",
+          "score": 9.085559269064628,
+          "page": 88,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p045-05",
+      "part": 45,
+      "question": "Which section addresses unique transaction identifiers for swap reporting?",
+      "expected_citations": [
+        "45.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "3155ded7527f1592f46a1256",
+          "citation": "45.7",
+          "score": 0.25399289208123127,
+          "page": 11,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "76e15cd765564665aeb2f422",
+          "citation": "46.4",
+          "score": 0.2278511497308816,
+          "page": 5,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "f74f17e81ac315156c86bec8",
+          "citation": "45.5",
+          "score": 0.1760023678799458,
+          "page": 7,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "ae63df1bed1cc29a4e1667e5",
+          "citation": "45.6",
+          "score": 0.14931893972896804,
+          "page": 9,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "03b8cef98e2900c0bdacf6c8",
+          "citation": "45.3",
+          "score": 0.13360826705309584,
+          "page": 5,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p045-05",
+      "part": 45,
+      "question": "Which section addresses unique transaction identifiers for swap reporting?",
+      "expected_citations": [
+        "45.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "3155ded7527f1592f46a1256",
+          "citation": "45.7",
+          "score": 0.03252247488101534,
+          "page": 11,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "76e15cd765564665aeb2f422",
+          "citation": "46.4",
+          "score": 0.03252247488101534,
+          "page": 5,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "f74f17e81ac315156c86bec8",
+          "citation": "45.5",
+          "score": 0.031746031746031744,
+          "page": 7,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "ae63df1bed1cc29a4e1667e5",
+          "citation": "45.6",
+          "score": 0.03125,
+          "page": 9,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "03b8cef98e2900c0bdacf6c8",
+          "citation": "45.3",
+          "score": 0.030536130536130537,
+          "page": 5,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p046-05",
+      "part": 46,
+      "question": "Where is third-party facilitation of data reporting for pre-enactment swaps addressed?",
+      "expected_citations": [
+        "46.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "026f8cd8835d81ddd365eeb0",
+          "citation": "46.6",
+          "score": 26.643047932973385,
+          "page": 7,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "a4a294bf39939099622caa28",
+          "citation": "45.9",
+          "score": 18.861724556830545,
+          "page": 13,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "341503bf10d2b8c0af06aeb8",
+          "citation": "46.9",
+          "score": 15.47354717581582,
+          "page": 8,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "f7d4c7926aa16e221a03896b",
+          "citation": "46.3",
+          "score": 15.421479050287825,
+          "page": 4,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "76e15cd765564665aeb2f422",
+          "citation": "46.4",
+          "score": 14.890292186310925,
+          "page": 5,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p046-05",
+      "part": 46,
+      "question": "Where is third-party facilitation of data reporting for pre-enactment swaps addressed?",
+      "expected_citations": [
+        "46.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "026f8cd8835d81ddd365eeb0",
+          "citation": "46.6",
+          "score": 26.643047932973385,
+          "page": 7,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "a4a294bf39939099622caa28",
+          "citation": "45.9",
+          "score": 18.861724556830545,
+          "page": 13,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "341503bf10d2b8c0af06aeb8",
+          "citation": "46.9",
+          "score": 15.47354717581582,
+          "page": 8,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "f7d4c7926aa16e221a03896b",
+          "citation": "46.3",
+          "score": 15.421479050287825,
+          "page": 4,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "76e15cd765564665aeb2f422",
+          "citation": "46.4",
+          "score": 14.890292186310925,
+          "page": 5,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p046-05",
+      "part": 46,
+      "question": "Where is third-party facilitation of data reporting for pre-enactment swaps addressed?",
+      "expected_citations": [
+        "46.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "026f8cd8835d81ddd365eeb0",
+          "citation": "46.6",
+          "score": 0.50349114866174,
+          "page": 7,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "a4a294bf39939099622caa28",
+          "citation": "45.9",
+          "score": 0.4051708127326726,
+          "page": 13,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "11bacb5957840b1b580e6c61",
+          "citation": "46.10",
+          "score": 0.1925645920664738,
+          "page": 8,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "341503bf10d2b8c0af06aeb8",
+          "citation": "46.9",
+          "score": 0.1792452147790963,
+          "page": 8,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "c47f463f4316f89ee27e1085",
+          "citation": "46.8",
+          "score": 0.1718637907611431,
+          "page": 7,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p046-05",
+      "part": 46,
+      "question": "Where is third-party facilitation of data reporting for pre-enactment swaps addressed?",
+      "expected_citations": [
+        "46.6"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "026f8cd8835d81ddd365eeb0",
+          "citation": "46.6",
+          "score": 0.03278688524590164,
+          "page": 7,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "a4a294bf39939099622caa28",
+          "citation": "45.9",
+          "score": 0.03225806451612903,
+          "page": 13,
+          "file": "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "341503bf10d2b8c0af06aeb8",
+          "citation": "46.9",
+          "score": 0.03149801587301587,
+          "page": 8,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "f7d4c7926aa16e221a03896b",
+          "citation": "46.3",
+          "score": 0.030776515151515152,
+          "page": 4,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        },
+        {
+          "chunk_id": "76e15cd765564665aeb2f422",
+          "citation": "46.4",
+          "score": 0.030309988518943745,
+          "page": 5,
+          "file": "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p049-05",
+      "part": 49,
+      "question": "Which section addresses equity interest transfers for swap data repositories?",
+      "expected_citations": [
+        "49.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "0a24a5599449e938cdd13087",
+          "citation": "49.5",
+          "score": 13.943269117054907,
+          "page": 6,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "f35791b50842c334db46447b",
+          "citation": "39.27",
+          "score": 12.216405368378744,
+          "page": 49,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "838cbffc7b4105a17b9e714f",
+          "citation": "49.19",
+          "score": 9.3907002037725,
+          "page": 16,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "c496a17046b5675d8d181d82",
+          "citation": "180.2",
+          "score": 8.90072901103072,
+          "page": 2,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "65afe9a7b4c9d5de7dc376cf",
+          "citation": "49.17",
+          "score": 7.911780349216238,
+          "page": 12,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p049-05",
+      "part": 49,
+      "question": "Which section addresses equity interest transfers for swap data repositories?",
+      "expected_citations": [
+        "49.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "0a24a5599449e938cdd13087",
+          "citation": "49.5",
+          "score": 13.943269117054907,
+          "page": 6,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "f35791b50842c334db46447b",
+          "citation": "39.27",
+          "score": 12.216405368378744,
+          "page": 49,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "838cbffc7b4105a17b9e714f",
+          "citation": "49.19",
+          "score": 9.3907002037725,
+          "page": 16,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "c496a17046b5675d8d181d82",
+          "citation": "180.2",
+          "score": 8.90072901103072,
+          "page": 2,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "65afe9a7b4c9d5de7dc376cf",
+          "citation": "49.17",
+          "score": 7.911780349216238,
+          "page": 12,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p049-05",
+      "part": 49,
+      "question": "Which section addresses equity interest transfers for swap data repositories?",
+      "expected_citations": [
+        "49.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "0a24a5599449e938cdd13087",
+          "citation": "49.5",
+          "score": 0.24050572247957225,
+          "page": 6,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "eadda6bb3f88ece704de06f3",
+          "citation": "49.7",
+          "score": 0.18164491323500725,
+          "page": 7,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "838cbffc7b4105a17b9e714f",
+          "citation": "49.19",
+          "score": 0.16566333049991752,
+          "page": 16,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "a8235fe9bff8ca0e1affe419",
+          "citation": "23.204",
+          "score": 0.1594196905204303,
+          "page": 67,
+          "file": "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf"
+        },
+        {
+          "chunk_id": "4ea6e87a2d75839403cf1859",
+          "citation": "49.21",
+          "score": 0.12956999415143203,
+          "page": 19,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p049-05",
+      "part": 49,
+      "question": "Which section addresses equity interest transfers for swap data repositories?",
+      "expected_citations": [
+        "49.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "0a24a5599449e938cdd13087",
+          "citation": "49.5",
+          "score": 0.03278688524590164,
+          "page": 6,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "838cbffc7b4105a17b9e714f",
+          "citation": "49.19",
+          "score": 0.031746031746031744,
+          "page": 16,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "f35791b50842c334db46447b",
+          "citation": "39.27",
+          "score": 0.03021353930031804,
+          "page": 49,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "eadda6bb3f88ece704de06f3",
+          "citation": "49.7",
+          "score": 0.03021353930031804,
+          "page": 7,
+          "file": "CFTC_17CFR_Part049_SDRs_2025.pdf"
+        },
+        {
+          "chunk_id": "0b8ae08045d7b8f148adcef6",
+          "citation": "37.5",
+          "score": 0.029411764705882353,
+          "page": 6,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p050-05",
+      "part": 50,
+      "question": "Where are swaps exempt from a clearing requirement addressed?",
+      "expected_citations": [
+        "50.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 8.749407133200384,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "cb5838ad86279a3baccc2fc2",
+          "citation": "50.5",
+          "score": 7.834635959408624,
+          "page": 7,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "aea859d09b66eda41395886a",
+          "citation": "39.6",
+          "score": 7.79750268575094,
+          "page": 10,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "9c40d16fe647ff499edfb103",
+          "citation": "50.51",
+          "score": 7.66650334901395,
+          "page": 12,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.5,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p050-05",
+      "part": 50,
+      "question": "Where are swaps exempt from a clearing requirement addressed?",
+      "expected_citations": [
+        "50.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 8.749407133200384,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "cb5838ad86279a3baccc2fc2",
+          "citation": "50.5",
+          "score": 7.834635959408624,
+          "page": 7,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "aea859d09b66eda41395886a",
+          "citation": "39.6",
+          "score": 7.79750268575094,
+          "page": 10,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "9c40d16fe647ff499edfb103",
+          "citation": "50.51",
+          "score": 7.66650334901395,
+          "page": 12,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "f00e251dc497d81f58bfc4d3",
+          "citation": "3.50",
+          "score": 7.6466551533724925,
+          "page": 30,
+          "file": "CFTC_17CFR_Part003_Registration_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.5,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p050-05",
+      "part": 50,
+      "question": "Where are swaps exempt from a clearing requirement addressed?",
+      "expected_citations": [
+        "50.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "cb5838ad86279a3baccc2fc2",
+          "citation": "50.5",
+          "score": 0.30847345873230575,
+          "page": 7,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "9c40d16fe647ff499edfb103",
+          "citation": "50.51",
+          "score": 0.1567890179790231,
+          "page": 12,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "a01435d2cdef0fd451de1366",
+          "citation": "50.2",
+          "score": 0.15293200081351327,
+          "page": 2,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "6a77738990ba25a835cc7e20",
+          "citation": "37.701",
+          "score": 0.14649183943131705,
+          "page": 19,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 0.13334089650107236,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p050-05",
+      "part": 50,
+      "question": "Where are swaps exempt from a clearing requirement addressed?",
+      "expected_citations": [
+        "50.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "cb5838ad86279a3baccc2fc2",
+          "citation": "50.5",
+          "score": 0.03252247488101534,
+          "page": 7,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "27c5dcf0ccea9ef5c394563b",
+          "citation": "43.5",
+          "score": 0.03177805800756621,
+          "page": 12,
+          "file": "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf"
+        },
+        {
+          "chunk_id": "9c40d16fe647ff499edfb103",
+          "citation": "50.51",
+          "score": 0.031754032258064516,
+          "page": 12,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        },
+        {
+          "chunk_id": "aea859d09b66eda41395886a",
+          "citation": "39.6",
+          "score": 0.03036576949620428,
+          "page": 10,
+          "file": "CFTC_17CFR_Part039_DCOs_2025.pdf"
+        },
+        {
+          "chunk_id": "caaa0c7984fdc2cc8b82f158",
+          "citation": "50.53",
+          "score": 0.03007688828584351,
+          "page": 15,
+          "file": "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p150-05",
+      "part": 150,
+      "question": "Where are exchange-set speculative position limits addressed?",
+      "expected_citations": [
+        "150.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "cbb65724630227663c7916a4",
+          "citation": "150.5",
+          "score": 19.45770522321088,
+          "page": 15,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "68e92db91893dbc55a74356a",
+          "citation": "150.9",
+          "score": 18.067027234396633,
+          "page": 21,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "1a87ed0a35c9e374789a3809",
+          "citation": "150.3",
+          "score": 17.48506894947568,
+          "page": 8,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "2923d90eb752c9bb3994d32b",
+          "citation": "150.2",
+          "score": 16.989095321754863,
+          "page": 6,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "47d0f8a41bf2d02b2248fac1",
+          "citation": "150.1",
+          "score": 15.261260383916714,
+          "page": 2,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p150-05",
+      "part": 150,
+      "question": "Where are exchange-set speculative position limits addressed?",
+      "expected_citations": [
+        "150.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "cbb65724630227663c7916a4",
+          "citation": "150.5",
+          "score": 19.45770522321088,
+          "page": 15,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "68e92db91893dbc55a74356a",
+          "citation": "150.9",
+          "score": 18.067027234396633,
+          "page": 21,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "1a87ed0a35c9e374789a3809",
+          "citation": "150.3",
+          "score": 17.48506894947568,
+          "page": 8,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "2923d90eb752c9bb3994d32b",
+          "citation": "150.2",
+          "score": 16.989095321754863,
+          "page": 6,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "47d0f8a41bf2d02b2248fac1",
+          "citation": "150.1",
+          "score": 15.261260383916714,
+          "page": 2,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p150-05",
+      "part": 150,
+      "question": "Where are exchange-set speculative position limits addressed?",
+      "expected_citations": [
+        "150.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "2923d90eb752c9bb3994d32b",
+          "citation": "150.2",
+          "score": 0.19360660204052824,
+          "page": 6,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "4bc44445dfb1526a85e88994",
+          "citation": "150.9",
+          "score": 0.18650162081513938,
+          "page": 20,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "cbb65724630227663c7916a4",
+          "citation": "150.5",
+          "score": 0.18531367027606663,
+          "page": 15,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "03c3218fa02bcce782db5e47",
+          "citation": "37.600",
+          "score": 0.17010778654121633,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "1a87ed0a35c9e374789a3809",
+          "citation": "150.3",
+          "score": 0.1558641437590276,
+          "page": 8,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.3333333333333333,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p150-05",
+      "part": 150,
+      "question": "Where are exchange-set speculative position limits addressed?",
+      "expected_citations": [
+        "150.5"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "cbb65724630227663c7916a4",
+          "citation": "150.5",
+          "score": 0.032266458495966696,
+          "page": 15,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "68e92db91893dbc55a74356a",
+          "citation": "150.9",
+          "score": 0.03225806451612903,
+          "page": 21,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "2923d90eb752c9bb3994d32b",
+          "citation": "150.2",
+          "score": 0.032018442622950824,
+          "page": 6,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "1a87ed0a35c9e374789a3809",
+          "citation": "150.3",
+          "score": 0.03125763125763126,
+          "page": 8,
+          "file": "CFTC_17CFR_Part150_Position-Limits_2025.pdf"
+        },
+        {
+          "chunk_id": "03c3218fa02bcce782db5e47",
+          "citation": "37.600",
+          "score": 0.030330882352941176,
+          "page": 18,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p180-05",
+      "part": 180,
+      "question": "Where is the prohibition on price manipulation addressed?",
+      "expected_citations": [
+        "180.2"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "bm25",
+      "retrieved": [
+        {
+          "chunk_id": "0af95695fdaa29ac80bc53e3",
+          "citation": "37.401",
+          "score": 12.234891468349065,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "452f624aff90a121839b3de7",
+          "citation": "180.1",
+          "score": 10.915136058767798,
+          "page": 1,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "5c54c20721b9cdfe2c9e243b",
+          "citation": "37.9",
+          "score": 9.746247275284729,
+          "page": 35,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "c496a17046b5675d8d181d82",
+          "citation": "180.2",
+          "score": 9.197842433264384,
+          "page": 2,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "01d1b304e5d0fcd7bd1119ba",
+          "citation": "37.400",
+          "score": 8.699168238673865,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.25,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p180-05",
+      "part": 180,
+      "question": "Where is the prohibition on price manipulation addressed?",
+      "expected_citations": [
+        "180.2"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "citation_bm25",
+      "retrieved": [
+        {
+          "chunk_id": "0af95695fdaa29ac80bc53e3",
+          "citation": "37.401",
+          "score": 12.234891468349065,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "452f624aff90a121839b3de7",
+          "citation": "180.1",
+          "score": 10.915136058767798,
+          "page": 1,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "5c54c20721b9cdfe2c9e243b",
+          "citation": "37.9",
+          "score": 9.746247275284729,
+          "page": 35,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "c496a17046b5675d8d181d82",
+          "citation": "180.2",
+          "score": 9.197842433264384,
+          "page": 2,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "01d1b304e5d0fcd7bd1119ba",
+          "citation": "37.400",
+          "score": 8.699168238673865,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.25,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    },
+    {
+      "id": "p180-05",
+      "part": 180,
+      "question": "Where is the prohibition on price manipulation addressed?",
+      "expected_citations": [
+        "180.2"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "tfidf",
+      "retrieved": [
+        {
+          "chunk_id": "c6ffb53a380c0f9205664325",
+          "citation": "37.300",
+          "score": 0.18781148210111745,
+          "page": 16,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "0af95695fdaa29ac80bc53e3",
+          "citation": "37.401",
+          "score": 0.1820184021717392,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "01d1b304e5d0fcd7bd1119ba",
+          "citation": "37.400",
+          "score": 0.1112382778741464,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "452f624aff90a121839b3de7",
+          "citation": "180.1",
+          "score": 0.10843845974222657,
+          "page": 1,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "e170f388ce8c4954acf99e24",
+          "citation": "37.403",
+          "score": 0.1048396473824001,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "hit_at_5": 0.0
+      },
+      "pass": false
+    },
+    {
+      "id": "p180-05",
+      "part": 180,
+      "question": "Where is the prohibition on price manipulation addressed?",
+      "expected_citations": [
+        "180.2"
+      ],
+      "split": "held_out",
+      "query_type": "plain_language",
+      "method": "hybrid_rrf",
+      "retrieved": [
+        {
+          "chunk_id": "0af95695fdaa29ac80bc53e3",
+          "citation": "37.401",
+          "score": 0.03252247488101534,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "452f624aff90a121839b3de7",
+          "citation": "180.1",
+          "score": 0.031754032258064516,
+          "page": 1,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        },
+        {
+          "chunk_id": "01d1b304e5d0fcd7bd1119ba",
+          "citation": "37.400",
+          "score": 0.03125763125763126,
+          "page": 17,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "c6ffb53a380c0f9205664325",
+          "citation": "37.300",
+          "score": 0.031099324975891997,
+          "page": 16,
+          "file": "CFTC_17CFR_Part037_SEFs_2025.pdf"
+        },
+        {
+          "chunk_id": "c496a17046b5675d8d181d82",
+          "citation": "180.2",
+          "score": 0.030776515151515152,
+          "page": 2,
+          "file": "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 0.2,
+        "hit_at_5": 1.0
+      },
+      "pass": true
+    }
+  ],
+  "manifest": {
+    "run_id": "2026-11-07T065349830949_0000_788da2b98a",
+    "created_at": "2026-11-07T06:53:49.830949+00:00",
+    "evaluation_version": "retrieval-eval-v1",
+    "evaluator_sha256": "df89139209d5df6e6b4aaf1df2d5d80f18e491e3f41605001c0c3a106dd08dc9",
+    "python": "3.15.2",
+    "sqlite": "3.53.4",
+    "corpus_snapshot": "928303ab332c82991901",
+    "corpus_manifest": {
+      "CFTC_17CFR_Part001_General-Regulations_2025.pdf": "7288827b24e46b01425c71483cc0d966859e9d6193808fb7cabc51700ccdeead",
+      "CFTC_17CFR_Part003_Registration_2025.pdf": "17c06558b30c854384bdf4445057004173915f62dc251d939b8516861647034f",
+      "CFTC_17CFR_Part022_Cleared-Swaps-Collateral-LSOC_2025.pdf": "56d070f99667e07d29d7ca3d3729c74343e545a60b15e98b3bb8888354735534",
+      "CFTC_17CFR_Part023_Swap-Dealers_2025.pdf": "a9dc16e80588487d0d14ccf96462642da785f8ca33e8b32dd1abfb1a9ead4473",
+      "CFTC_17CFR_Part037_SEFs_2025.pdf": "e874acd12d972b4960f75031f70f92d852f18986c0d2b4d8d504d1e6a3e33c7e",
+      "CFTC_17CFR_Part039_DCOs_2025.pdf": "298055d6fc04d01af0ecdc25c16c8c85f699ba491eb372765a1377784ec88396",
+      "CFTC_17CFR_Part043_Real-Time-Reporting_2025.pdf": "4aac55e6b9693b8cf03ce23b7d1f4d263d2cbde2716fdbede17c305866c5bab8",
+      "CFTC_17CFR_Part045_Swap-Data-Reporting_2025.pdf": "8dbf0450fef0bedfcdb7faba16a1c699f3cf84cf9c8257e293591309eccbaf54",
+      "CFTC_17CFR_Part046_Historical-Swaps_2025.pdf": "d86bab3e720b31bcc98f48d61c121cbc1f93a72d69984947af68c2a8e019d670",
+      "CFTC_17CFR_Part049_SDRs_2025.pdf": "31aff5a8d033245be5b4f7bd0fae0cf4ac53ad7ffcf9dbe912812046f15b628c",
+      "CFTC_17CFR_Part050_Clearing-Requirement_2025.pdf": "ec990ac78a4542ba01cb6cf9f323baeb0e708c4858d6a0511808f650381a8faf",
+      "CFTC_17CFR_Part150_Position-Limits_2025.pdf": "4dc8d89a591f68004ee8d35aae3fbdc3648e3891be36574222ddefb5e703725f",
+      "CFTC_17CFR_Part180_Anti-Manipulation_2025.pdf": "cd2ea4bd084808f2b92b1b06a6de32cdd944cb64ce2fb23a1daae027637dbc7a",
+      "parser_version": "reading-order-v2",
+      "section_counts": {
+        "1": 70,
+        "3": 33,
+        "22": 17,
+        "23": 73,
+        "37": 64,
+        "39": 42,
+        "43": 7,
+        "45": 14,
+        "46": 11,
+        "49": 32,
+        "50": 22,
+        "150": 9,
+        "180": 2
+      },
+      "validation": "Structural check only; SME held-out evaluation and TOC reconciliation pending"
+    },
+    "corpus_sha256": "3928fc8cdbfa0d3e8bc5a3e59f7e87a302bb792aced1cc8db4800233a20c129d",
+    "dataset_sha256": "06198da59764ca57ec29bb1240da5c322113edf22844904315a3b7b4dc36af0c",
+    "dataset_metadata": {
+      "version": "provisional-cftc-v1",
+      "label_status": "SME review required",
+      "purpose": "Retrieval-only development benchmark; not a regulatory accuracy or release approval set",
+      "split_policy": "Frozen query-level stratification by part: 46 tuning / 19 held-out. Every part appears in both. Source corpus is shared; queries are not used for training.",
+      "limitations": [
+        "Author-created from source section headings; independent SME labels pending.",
+        "Small held-out sample; near-paraphrases and overlapping source sections may overestimate generalization.",
+        "No answer faithfulness, citation support, escalation or readability metrics are claimed.",
+        "Other relevant sections may be omitted from the provisional expected-citation labels."
+      ]
+    },
+    "split": "held_out",
+    "config": {
+      "top_k": 5,
+      "rrf_k": 60,
+      "candidate_depth": 50,
+      "bm25_weights": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "tokenizer": "unicode61",
+      "tfidf": "log TF * smoothed IDF; cosine; title and citation once",
+      "part_filter": false,
+      "seed": 52
+    },
+    "methods": [
+      "bm25",
+      "citation_bm25",
+      "tfidf",
+      "hybrid_rrf"
+    ],
+    "embedding_model": "none; lexical TF-IDF only",
+    "prompt_version": "none",
+    "llm": "none",
+    "release_gate": "not evaluated; provisional labels require SME approval",
+    "split_counts": {
+      "tuning": 46,
+      "held_out": 19
+    }
+  }
+}
